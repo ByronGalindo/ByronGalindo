@@ -58,3 +58,4 @@
 
 ###
 <br clear="both">
+<img src="https://raw.githubusercontent.com/ByronGalindo/maurodesouza/output/snake.svg" alt="Snake animation" />
