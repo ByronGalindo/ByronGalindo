@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Byron Galindo and I'm a backend developer, i am from Neiva.</h2>
+<h2 align="left">Hi 👋! My name is Byron Galindo and I'm a backend developer whit python and Django 🤘.</h2>
 
 ###
 
