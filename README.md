@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Byron Galindo and I'm a backend developer whit python and Django 🤘.</h2>
+<h2 align="center">Hi 👋! My name is Byron Galindo and I'm a backend developer whit python and Django 🤘.</h2>
 
 ###
 <div align="center">
@@ -53,10 +53,11 @@
 </div>
 
 ###
-
+<!--
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*kbUTNQ5Pw-esY0-8yjb8JQ.gif"  />
 
 ###
+-->
 <br clear="both">
 <!-- <img src="https://raw.githubusercontent.com/ByronGalindo/ByronGalindo/output/snake.svg" alt="Snake animation" />
  -->
