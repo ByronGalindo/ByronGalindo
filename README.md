@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Byron Galindo and I'm a backend developer whit python and Django 🤘.</h2>
+<h1 align="center">Hi 👋! My name is Byron Galindo </h1> 
+<h2 align="center">I'm a backend developer whit python and Django and student of Cybersecurity and Data Science.</h2>
 
 ###
 <div align="center">
