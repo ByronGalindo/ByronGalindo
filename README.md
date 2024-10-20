@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ByronGalindo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3656456" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ByronGalindo.png" alt="Try Hack Me" />
 </div>
 
 ###
